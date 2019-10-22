@@ -2,11 +2,12 @@
 
 int main()
 {
-    int n1, n2;
+    int n1, n2,n3;
     float resultado;
     
     printf("\nEntre com n1:");
     scanf("%d", &n1);
+    scanf("%d", &n3);
     printf("\nEntre com n2:");
     scanf("%d", &n2);
     
