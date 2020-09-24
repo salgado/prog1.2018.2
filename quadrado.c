@@ -4,7 +4,7 @@ int main()
 {
     int i, j, tam;
     
-    printf("\nentre com o tam do quadrado: ");
+    printf("\nEntre com o tamanho do quadrado: ");
     scanf("%d", &tam);
     
     for(i=1;i<=tam;i++){
